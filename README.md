@@ -8,6 +8,7 @@
 |Voltmaister|Admin| Orestis Artinopoulos|P2019153|[Know me!](https://github.com/voltmaister)|
 |P19mark|Member|Dimitra Markou|P2019170|[Know me!](https://github.com/p19mark)|
 |NickLitharis|Member|Nikos Litharis|P2019083|[Know me!](https://github.com/NickLitharis)|
+|KonstantinosTourtsakis|Member|Konstantinos Tourtsakis|P2019140|[Know me!](https://github.com/KonstantinosTourtsakis)|
 
 
 ## We are proud you are working with us
