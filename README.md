@@ -12,7 +12,7 @@
 
 
 ## We are proud you are working with us
-However you need a few more steps to follow
+However you need a few more steps to follow:
 
 1. add your account to the member table in README.md
 2. fork the main repository
