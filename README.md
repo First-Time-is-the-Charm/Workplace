@@ -10,6 +10,7 @@
 |NickLitharis|Member|Nikos Litharis|P2019083|[Know me!](https://github.com/NickLitharis)|
 |KonstantinosTourtsakis|Member|Konstantinos Tourtsakis|P2019140|[Know me!](https://github.com/KonstantinosTourtsakis)|
 |odysseasp2019060|Member|Odysseas Oikonomou|P2019060|[Know me!](https://github.com/odysseasp2019060/)|
+|Angeloth1|Member|Aggelos Thomos|P2019095|[Know me!](https://github.com/Angeloth1)|
 
 ## We are proud you are working with us
 However you need a few more steps to follow:
