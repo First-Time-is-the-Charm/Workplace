@@ -1,6 +1,6 @@
 # Welcome Fellow Programmer
 ## [First Time Is The Charm](https://github.com/First-Time-is-the-Charm)
-## Meet Our Team (Accepting New Members)
+## Meet Our Team (We don't accept new members at the moment!)
 
 
 |Members|Roles|First & Last name| Id |Account link|
