@@ -17,6 +17,7 @@ However you need a few more steps to follow:
 
 1. add your account to the member table in README.md
 2. fork the main repository
+3. when you have finished with your cv don't forget to update members.json and add the webring to your site.
 
 (this document will have a few changes in the future please be patient we are trying to make a simple and easy to follow instruction manual)
 
